@@ -1,0 +1,1 @@
+this is a basic file for practising file handling in python
